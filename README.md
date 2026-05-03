@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&section=header&text=Hello,%20I'm%20Nguyen%20Thi%20Phuong%20NhungfontSize=34&fontColor=F472B6&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&section=header&text=Hello,%20I'm%20Nguyen%20Thi%20Phuong%20Nhung&fontSize=34&fontColor=F472B6&animation=fadeIn" />
 </p>
 
 <p align="center">
