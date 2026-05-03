@@ -295,15 +295,6 @@ Tôi mong muốn phát triển bản thân trong môi trường công nghệ chu
 </p>
 
 <p align="center">
-<img 
-    height="170"
-    src="https://streak-stats.demolab.com?user=pn-0212&theme=radical&hide_border=true&background=FCE7F3&stroke=F9A8D4&ring=EC4899&fire=DB2777&currStreakLabel=DB2777&sideLabels=BE185D&currStreakNum=BE185D&sideNums=BE185D&dates=F472B6" 
-    alt="GitHub Streak" 
-  />
-
-</p>
-
-<p align="center">
 
 <img 
     width="95%" 
