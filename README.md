@@ -69,9 +69,15 @@ Xin chào, tôi là **Nguyễn Thị Phương Nhung**, sinh viên ngành **An to
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=pon0212&bg_color=FCE7F3&color=BE185D&line=EC4899&point=DB2777&area=true&area_color=F9A8D4&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
-<!-- 3D Contribution Universe -->
+<!-- CÚP THÀNH TỰU -->
 <p align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="90%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pon0212&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+<!-- THẺ THỐNG KÊ & NGÔN NGỮ -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pon0212&show_icons=true&hide_border=true&title_color=DB2777&icon_color=F472B6&bg_color=FCE7F3&text_color=4B5563" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pon0212&layout=compact&hide_border=true&title_color=DB2777&bg_color=FCE7F3&text_color=4B5563" height="165" alt="Top Languages" />
 </p>
 
 <!-- Contribution Snake -->
