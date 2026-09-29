@@ -21,17 +21,17 @@
 <img align="right" src="https://media.giphy.com/media/ZQW9Wx6C4OX0mbzPvj/giphy.gif" width="260" alt="Cyber Security GIF"/>
 
 ### 🌸 About Me
+    
 Hi there! I'm **Nguyen Thi Phuong Nhung**, a passionate Tech Student focusing on **Cyber Security & Application Security**. 
+    
 I love exploring how web applications work, analyzing vulnerabilities, and learning how to build safer software systems.
 
 <br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🎓_Role-Cyber_Security_Student-FCE7F3?style=for-the-badge&colorB=DB2777" />
-  <img src="https://img.shields.io/badge/🔐_Interests-AppSec_%7C_PenTesting-FCE7F3?style=for-the-badge&colorB=F472B6" />
-  <br>
-  <img src="https://img.shields.io/badge/🚀_Goal-AppSec_Engineer-FCE7F3?style=for-the-badge&colorB=DB2777" />
-  <img src="https://img.shields.io/badge/💡_Strengths-Problem_Solving-FCE7F3?style=for-the-badge&colorB=F472B6" />
+<p align="left">
+  <img src="https://img.shields.io/badge/🎓_Role-Cyber_Security_Student-FCE7F3?style=for-the-badge&colorB=DB2777" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/🔐_Interests-AppSec_%7C_PenTesting-FCE7F3?style=for-the-badge&colorB=F472B6" />
+  <br><br>
+  <img src="https://img.shields.io/badge/🚀_Goal-AppSec_Engineer-FCE7F3?style=for-the-badge&colorB=DB2777" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/💡_Strengths-Problem_Solving-FCE7F3?style=for-the-badge&colorB=F472B6" />
 </p>
 
 <br clear="right"/>
