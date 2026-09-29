@@ -17,13 +17,11 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-<!-- PHẦN ABOUT ME SẮP XẾP ĐỀU HÀNG NGANG -->
+<!-- PHẦN ABOUT ME  -->
 <img align="right" src="https://media.giphy.com/media/ZQW9Wx6C4OX0mbzPvj/giphy.gif" width="260" alt="Cyber Security GIF"/>
 
 ### 🌸 About Me
-    
 Hi there! I'm **Nguyen Thi Phuong Nhung**, a passionate Tech Student focusing on **Cyber Security & Application Security**. 
-    
 I love exploring how web applications work, analyzing vulnerabilities, and learning how to build safer software systems.
 
 <br>
