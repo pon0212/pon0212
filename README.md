@@ -2,28 +2,46 @@
   <img src="https://komarev.com/ghpvc/?username=pn-0212&color=2563EB&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
+<!-- PHẦN TÊN -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBCFE8,50:F472B6,100:DB2777&height=220&section=header&text=Nguyễn%20Thị%20Phương%20Nhung&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20%7C%20Application%20Security%20Enthusiast%20%7C%20Cybersecurity%20Learner&descAlignY=60&descSize=16" width="100%"/>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=F472B6&center=true&vCenter=true&width=850&lines=Cyber+Security+Student;Application+Security+Enthusiast;Secure+Software+Development+Learner;Future+Cybersecurity+Professional" alt="Typing SVG" />
 </p>
 
-<img align="right" src="pon.jpg" width="280" alt="Profile Picture"/>
+<!-- KẾT THÚC PHẦN TIÊU ĐỀ -->
 
-<p align="left">
-  👋 <strong>Hello, I'm Nguyen Thi Phuong Nhung!</strong> <br><br>
-  🎓 <strong>Cyber Security Student</strong> with a passion for <strong>Application Security</strong> and <strong>Secure Software Development</strong>.<br><br>
-  💡 I focus on understanding how modern applications are designed, how vulnerabilities appear, and how to build safer, more reliable systems.<br><br>
-  🚀 <strong>Goal:</strong> Become a professional <strong>Application Security Engineer</strong>.<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
+
+<!-- PHẦN ABOUT ME SẮP XẾP ĐỀU HÀNG NGANG -->
+<img align="right" src="https://media.giphy.com/media/ZQW9Wx6C4OX0mbzPvj/giphy.gif" width="260" alt="Cyber Security GIF"/>
+
+### 🌸 About Me
+    
+Hi there! I'm **Nguyen Thi Phuong Nhung**, a passionate Tech Student focusing on **Cyber Security & Application Security**. 
+    
+I love exploring how web applications work, analyzing vulnerabilities, and learning how to build safer software systems.
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓_Role-Cyber_Security_Student-FCE7F3?style=for-the-badge&colorB=DB2777" />
+  <img src="https://img.shields.io/badge/🔐_Interests-AppSec_%7C_PenTesting-FCE7F3?style=for-the-badge&colorB=F472B6" />
+  <br>
+  <img src="https://img.shields.io/badge/🚀_Goal-AppSec_Engineer-FCE7F3?style=for-the-badge&colorB=DB2777" />
+  <img src="https://img.shields.io/badge/💡_Strengths-Problem_Solving-FCE7F3?style=for-the-badge&colorB=F472B6" />
 </p>
 
 <br clear="right"/>
 
 <p align="center">
-  <a href="#english">🇺🇸 English</a> | <a href="#tieng-viet">🇻🇳 Tiếng Việt</a>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
----
-
-<a id="english"></a>
 ### 🚀 Tech Stack & Focus
 
 <p align="center">
@@ -38,14 +56,13 @@
   <img src="https://img.shields.io/badge/Secure%20Coding-F9A8D4?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
 
-- **Currently Learning:** Web App Security, Secure Coding Principles, Vulnerability Analysis (SQLi, XSS), Penetration Testing Basics.
-- **Strengths:** Eager to learn, detail-oriented, logical problem-solving, and highly responsible.
-
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 <a id="tieng-viet"></a>
 <details>
-<summary>🇻🇳 <b>Xem phần giới thiệu bằng Tiếng Việt (Click to expand)</b></summary>
+<summary>🇻🇳 <b>Tiếng Việt</b></summary>
 <br>
 
 Xin chào, tôi là **Nguyễn Thị Phương Nhung**, sinh viên ngành **An toàn Thông tin** với định hướng chuyên sâu về **Bảo mật Ứng dụng (Application Security)**.
@@ -57,7 +74,9 @@ Xin chào, tôi là **Nguyễn Thị Phương Nhung**, sinh viên ngành **An to
 
 </details>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 ### 📊 GitHub Stats & Animations
 
@@ -70,20 +89,32 @@ Xin chào, tôi là **Nguyễn Thị Phương Nhung**, sinh viên ngành **An to
   </picture>
 </p>
 
----
+<div align="center">
+  <blockquote>
+    <em>"Never say all you know. And never believe all you hear." - PoN </em>
+  </blockquote>
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=F472B6&center=true&vCenter=true&width=750&lines=%22Security+is+not+a+product,+but+a+process.%22;%22Talk+is+cheap.+Show+me+the+code...+securely.%22;%22Building+safer,+more+reliable+systems.%22" alt="Security Quotes" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 ### 📫 Let's Connect!
 
 <p align="center">
-<a href="mailto:pnhung0212@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.facebook.com/pnhung0212">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-</a>
-<a href="https://www.instagram.com/_ntphnhug_/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
+  <a href="mailto:pnhung0212@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.facebook.com/pnhung0212">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/_ntphnhug_/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
 <p align="center">
