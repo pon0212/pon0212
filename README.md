@@ -18,7 +18,7 @@
 </p>
 
 <!-- PHẦN ABOUT ME  -->
-<img align="right" src="https://media.giphy.com/media/ZQW9Wx6C4OX0mbzPvj/giphy.gif" height="200" width="280" alt="Cyber Security GIF"/>
+<img align="right" src="https://media.giphy.com/media/ZQW9Wx6C4OX0mbzPvj/giphy.gif" width="320" alt="Cyber Security GIF"/>
 
 ### 🌸 About Me
     
