@@ -76,6 +76,19 @@ Xin chào, tôi là **Nguyễn Thị Phương Nhung**, sinh viên ngành **An to
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
+### 📈 Stats & Streak
+
+<p align="center">
+  <a href="https://github.com/pon0212">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pon0212&show_icons=true&bg_color=0D1117&title_color=F472B6&text_color=ffffff&icon_color=DB2777&border_color=0D1117&border_radius=10&count_private=true" alt="Stats" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/pon0212">
+    <img src="https://streak-stats.demolab.com?user=pon0212&border_radius=10&background=0D1117&border=F472B6&ring=F472B6&fire=DB2777&currStreakLabel=F472B6&currStreakNum=ffffff&sideLabels=FBCFE8&sideNums=ffffff&dates=9CA3AF" alt="Streak"/>
+  </a>
+</p>
+
 ### 📊 GitHub Stats & Animations
 
 <!-- Contribution Snake -->
