@@ -58,24 +58,6 @@ I love exploring how web applications work, analyzing vulnerabilities, and learn
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-<a id="tieng-viet"></a>
-<details>
-<summary>🇻🇳 <b>Tiếng Việt</b></summary>
-<br>
-
-Xin chào, tôi là **Nguyễn Thị Phương Nhung**, sinh viên ngành **An toàn Thông tin** với định hướng chuyên sâu về **Bảo mật Ứng dụng (Application Security)**.
-
-- 🎯 **Mục tiêu:** Xây dựng nền tảng vững chắc về lập trình và an ninh mạng để trở thành một Application Security Engineer chuyên nghiệp.
-- 📚 **Đang tìm hiểu:** Bảo mật ứng dụng web, OWASP Top 10, phân tích lỗ hổng (SQLi, XSS), xác thực/phân quyền và kiểm thử bảo mật cơ bản.
-- 💻 **Kỹ năng:** C/C++, Java, Python, JavaScript, Git, Linux, MySQL, Burp Suite.
-- ✨ **Điểm mạnh:** Tinh thần học hỏi cao, tư duy logic, cẩn thận và có trách nhiệm trong công việc.
-
-</details>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
-
 ### 📈 Stats & Streak
 
 <p align="center">
