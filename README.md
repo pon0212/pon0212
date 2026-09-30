@@ -18,7 +18,7 @@
 </p>
 
 <!-- PHẦN ABOUT ME  -->
-<img align="right" src="https://media.giphy.com/media/ZQW9Wx6C4OX0mbzPvj/giphy.gif" width="260" alt="Cyber Security GIF"/>
+<img align="right" src="https://media.giphy.com/media/ZQW9Wx6C4OX0mbzPvj/giphy.gif" height="200" width="280" alt="Cyber Security GIF"/>
 
 ### 🌸 About Me
     
@@ -72,6 +72,11 @@ I love exploring how web applications work, analyzing vulnerabilities, and learn
 </p>
 
 ### 📊 GitHub Stats & Animations
+
+<!-- Biểu đồ 3D Contribution -->
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+</p>
 
 <!-- Contribution Snake -->
 <p align="center">
