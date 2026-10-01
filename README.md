@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=pn-0212&color=2563EB&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=pon0212&color=F472B6&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <!-- PHẦN TÊN -->
