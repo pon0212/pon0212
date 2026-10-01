@@ -71,6 +71,10 @@ I love exploring how web applications work, analyzing vulnerabilities, and learn
   </a>
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
+
 ### 📊 GitHub Stats & Animations
 
 <!-- Biểu đồ 3D Contribution -->
@@ -101,7 +105,7 @@ I love exploring how web applications work, analyzing vulnerabilities, and learn
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-### 📫 Let's Connect!
+### 📫 Let's Contact!
 
 <p align="center">
   <a href="mailto:pnhung0212@gmail.com">
