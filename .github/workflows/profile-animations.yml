@@ -21,7 +21,7 @@ jobs:
       - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
       # 3. Tạo con sâu chuyển động
@@ -33,7 +33,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}
 
       # 4. Lưu ảnh và đẩy (push) lên lại Github
       - name: Push changes
