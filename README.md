@@ -121,7 +121,7 @@ I love exploring how web applications work, analyzing vulnerabilities, and learn
 
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Thank+you+for+visiting+my+profile!+%E2%9C%A8;%F0%9F%92%96+Stay+Secure.+Happy+Coding!+%F0%9F%92%96" alt="Sparkly Text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Thank+you+for+visiting+my+profile!+%E2%9C%A8;%F0%9F%92%96+Stay+Secure.+Happy+Coding!+%F0%9F%92%96" alt="Sparkly Text" />
   <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=FBCFE8,F472B6,DB2777&height=30&width=450" alt="Neon Wave" />
 </p>
