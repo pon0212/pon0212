@@ -119,10 +119,6 @@ I love exploring how web applications work, analyzing vulnerabilities, and learn
   </a>
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
-
 <br>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Thank+you+for+visiting+my+profile!+%E2%9C%A8;%F0%9F%92%96+Stay+Secure.+Happy+Coding!+%F0%9F%92%96" alt="Sparkly Text" />
