@@ -89,11 +89,11 @@ I love exploring how web applications work, analyzing vulnerabilities, and learn
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=F472B6&center=true&vCenter=true&width=750&lines=%22Security+is+not+a+product,+but+a+process.%22;%22Talk+is+cheap.+Show+me+the+code...+securely.%22;%22Building+safer,+more+reliable+systems.%22" alt="Security Quotes" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=F472B6&center=true&vCenter=true&width=750&lines=%22Security+is+not+a+product,+but+a+process.%22;%22Talk+is+cheap.+Show+me+the+code...+securely.%22;%22Building+safer,+more+reliable+systems.%22" alt="Security Quotes" />
 </p>
 
 ### 📫 Let's Contact!
