@@ -82,15 +82,15 @@ I love exploring how web applications work, analyzing vulnerabilities, and learn
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
+
 <div align="center">
   <blockquote>
     <em>"Never say all you know. And never believe all you hear." - PoN </em>
   </blockquote>
 </div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=F472B6&center=true&vCenter=true&width=750&lines=%22Security+is+not+a+product,+but+a+process.%22;%22Talk+is+cheap.+Show+me+the+code...+securely.%22;%22Building+safer,+more+reliable+systems.%22" alt="Security Quotes" />
@@ -110,12 +110,15 @@ I love exploring how web applications work, analyzing vulnerabilities, and learn
   </a>
 </p>
 
+</p>
+<br/>
+<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> </p>
+
+<!--  FOOTER   -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,40:DB2777,80:BE185D,100:9D174D&height=120&section=footer&text=Thanks%20you%20for%20visiting!&fontSize=18&fontAlignY=65&fontColor=ffffff&animation=twinkling" width="100%" alt="pon0212 Footer"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&duration=3000&pause=1000&color=F472B6¢er=true&vCenter=true&width=850&lines=C%E1%BA%A3m+%C6%A1n+v%C3%AC+%C4%91%C3%A3+coi+trang+c%C3%A1+nh%C3%A2n+c%E1%BB%A7a+t%C3%B4i!" alt="Thank You Text" />
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBCFE8,50:F472B6,100:DB2777&height=30&width=450" alt="Pink Wave" />
+<p align="right">
+  <a href="#top">↑ Back to top</a>
 </p>
