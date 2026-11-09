@@ -82,15 +82,6 @@ I love exploring how web applications work, analyzing vulnerabilities, and learn
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 </p>
 
-<!-- Contribution Snake -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="dist/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
 <div align="center">
   <blockquote>
     <em>"Never say all you know. And never believe all you hear." - PoN </em>
@@ -119,9 +110,12 @@ I love exploring how web applications work, analyzing vulnerabilities, and learn
   </a>
 </p>
 
-<br>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Thank+you+for+visiting+my+profile!+%E2%9C%A8;%F0%9F%92%96+Stay+Secure.+Happy+Coding!+%F0%9F%92%96" alt="Sparkly Text" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&duration=3000&pause=1000&color=F472B6¢er=true&vCenter=true&width=850&lines=C%E1%BA%A3m+%C6%A1n+v%C3%AC+%C4%91%C3%A3+coi+trang+c%C3%A1+nh%C3%A2n+c%E1%BB%A7a+t%C3%B4i!" alt="Thank You Text" />
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=FBCFE8,F472B6,DB2777&height=30&width=450" alt="Neon Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBCFE8,50:F472B6,100:DB2777&height=30&width=450" alt="Pink Wave" />
 </p>
